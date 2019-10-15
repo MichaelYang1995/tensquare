@@ -1,0 +1,2 @@
+# tensquare
+spring cloud config
